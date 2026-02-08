@@ -19,7 +19,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <!-- About Me Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8571-4c1e6fa8e7bc.png" width="35"/> About Me
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> About Me
+
 
 <div align="center">
 
