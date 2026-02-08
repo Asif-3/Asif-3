@@ -4,11 +4,6 @@
 <!-- 3D Robot Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800" alt="3D Tech Animation"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+Specialist;💻+Full+Stack+Developer;📊+Data+Science+Enthusiast" alt="Typing SVG"/>
-</a>
-
 <br/>
 
 <!-- Profile Badges -->
@@ -53,7 +48,7 @@ print(me.life_motto())
 
 | 🔭 Working On | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
 |---------------|-------------|-----------------|-------------|
-| ML Projects | Neural Networks | Python, AI, Data | Love building AI! |
+| ML Projects | Neural Networks | Python, AI, Data, Cyber Security | Love building AI! |
 
 </div>
 
@@ -145,23 +140,12 @@ print(me.life_motto())
 
 </div>
 
-<!-- 3D Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-<!-- Trophies -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"/> Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asif-3&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
 
 <!-- 3D Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <!-- Activity Graph -->
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-4f0a-bba7-ca3a1bdf8536.png" width="35"/> Contribution Graph
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="20"/> Contribution Graph
 
 <div align="center">
 
@@ -173,7 +157,7 @@ print(me.life_motto())
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <!-- Snake Animation -->
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652317-d285-445b-87f5-b35c8cf81e9c.png" width="35"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="20"/> Contribution Snake
 
 <div align="center">
 
@@ -194,9 +178,7 @@ print(me.life_motto())
 <div align="center">
 
 
-<!-- 3D Handshake Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-39e4-4a48-abc6-1ca0230787f5.gif" width="200" alt="Handshake"/>
-```
+
 
 <br/><br/>
 
@@ -241,8 +223,6 @@ print(me.life_motto())
 <br/>
 
 ### ⭐ Thanks for visiting my profile! Let's connect and build something amazing!
-
-<img src="https://profile-counter.glitch.me/Asif-3/count.svg" alt="Visitor Count"/>
 
 <br/>
 
